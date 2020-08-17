@@ -1,5 +1,7 @@
 # session5- Functional Parameters
-session5-amitdoda1983 created by GitHub Classroom
+The session 5 is on Functional parameter. We learn about positional argument and default argument. 
+We also learn about *args and **kwargs and keyword argument.
+
 
 # Problem Statement
 Time It Function: Write a function which gives out average run time per call, such that it's definition is: def 
@@ -20,7 +22,9 @@ supposed to be a function name. Then the arguments for that function can be prov
 additional keyword arguments, if any.The function returns the average time taken by the function.
 
 # 'print'
-print is the inbuilt function available in python
+print is the inbuilt function available in python.
+The print function takes the *args and prints it as an output. The print function does not change the type of *args argument passed into it. 
+We can define sep or seperation ,Default is ' '. sep is optional and specify how to separate the objects, if there is more than one. end is Optional and Specifies what to print at the end. Default is '\n' (line feed)
 
 # 'squared_power_list'
 This function takes exactly 1 positional argument. The position argument is the number for which powers would be 
@@ -55,4 +59,4 @@ The function returns the speed converted in the distance and time units as speci
 
 # Results
 
-![Image](https://github.com/The-School-of-AI/session5-amitdoda1983/blob/master/session5_results.PNG)
+![Image](https://github.com/abhiiyer/EPAi-S5/blob/master/session5_results.PNG)
